@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 3705
+congress: 108th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3705
+
+> To amend the Federal Meat Inspection Act to enhance the safety of beef and beef food products originating in the United States by requiring the testing of cattle for bovine spongiform encephalopathy (commonly known as mad cow disease) at the time of slaughter, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Mad Cow Testing Act of 2004”.
+
+## § 2. Post mortem examination of cattle for bovine spongiform encephalopathy
+
+- **(a)** *Testing required* Section 4 of the Federal Meat Inspection Act (21 U.S.C. 604) is amended—
+  - **(1)** by striking “That for” and inserting “(a) Post mortem examination required.—For” ; and
+  - **(2)** by adding at the end the following new subsection:
+    > - **(b)** *Testing for bovine spongiform encephalopathy*
+    >   - **(1)** As part of the post-mortem examination and inspection required by subsection (a) of all cattle carcasses and parts thereof intended for use as human food, the Secretary shall require that a test be conducted to determine the presence of bovine spongiform encephalopathy. The Secretary shall specify the type of test to be used to comply with this requirement.
+    >   - **(2)** The Secretary shall use only personnel of the Animal and Plant Health Inspection Service to conduct the tests required by paragraph (1). Notwithstanding the Act of June 5, 1948 (Chapter 423; 21 U.S.C. 695), all costs related to the testing shall be borne by slaughtering, meat-canning, salting, packing, rendering, and other establishments subject to the testing requirement. The Secretary shall collect fees, at rates determined by the Secretary, from such establishments to cover the costs incurred or to be incurred by the Secretary to conduct the tests. Amounts collected by the Secretary under this paragraph shall remain available until expended, without further appropriation or fiscal year limitation, to carry out paragraph (1).
+    >   - **(3)** Notwithstanding paragraph (1), if the Secretary determines that a test is not available to accurately determine the presence of bovine spongiform encephalopathy in cattle under a certain age, the Secretary may delay the implementation of the testing requirement with regard to cattle under that age until such time as an accurate test for cattle of that age is readily available. The Secretary shall submit to Congress notice of any determination made under this paragraph, including the reasons why the delay in implementation is necessary. At least once each year during the course of an implementation delay granted under this paragraph, the Secretary shall evaluate whether an accurate test has been developed for the presence of bovine spongiform encephalopathy in cattle of the age covered by the delay. The Secretary shall submit to Congress the results of the evaluation.
+
+- **(b)** *Effective date* Section 4(b) of the Federal Meat Inspection Act, as added by subsection (a), shall apply to the slaughter of cattle in establishments subject to the such Act beginning not later than 30 days after the date of the enactment of this Act or such earlier date as the Secretary of Agriculture may prescribe.
