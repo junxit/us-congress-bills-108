@@ -1,0 +1,17 @@
+---
+legis-num: H. RES. 745
+congress: 108th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 745
+
+> Of inquiry requesting the President of the United States to provide certain information to the House of Representatives respecting the National Energy Policy Development Group.
+
+That the President of the United States, to the extent possible, is requested to furnish the House of Representatives, not later than 14 days after the date of adoption of the resolution, the following information respecting the National Energy Policy Development Group (hereinafter referred to as the “task force”):
+
+- **(1)** The name of each individual who was present at each of the group meetings conducted by the task force.
+- **(2)** The names of the professional staff assigned to provide support to the task force.
+- **(3)** The names of all individuals with whom each member of the task force (including the Vice President as chairman) and each support staff met to gather information for the National Energy Policy, including the date, subject, and location of each such meeting.
+- **(4)** The direct and indirect costs incurred in developing the National Energy Policy.
