@@ -1,0 +1,31 @@
+---
+legis-num: H.R. 4045
+congress: 108th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4045
+
+> To authorize the Secretary of the Interior to prepare a feasibility study with respect to the Mokelumne River, and for other purposes.
+
+## § 1. Authorization of Mokelumne River Regional Water Storage and Conjunctive Use Project Study
+
+The Secretary of the Interior (hereafter in this Act referred to as the “Secretary”) is authorized to prepare a feasibility study entitled the “Mokelumne River Regional Water Storage and Conjunctive Use Project Study”, only after the Secretary determines through an appraisal study (the costs of which shall be nonreimbursable) that there is a potentially feasible alternative by which 1 or more agencies within the Department of the Interior could provide additional water supply and water management flexibility within the San Joaquin Valley, California, through the development of new water storage and conjunctive use programs. The Secretary is authorized to provide a grant to, or enter into a cooperative agreement to facilitate preparation of, the appraisal study.
+
+## § 2. Use of reports and other information
+
+In developing the Mokelumne River Regional Water Storage and Conjunctive Use Project Study and the appraisal study under section 1, the Secretary shall use, as appropriate, reports and any other relevant information supplied by the Mokelumne River Water and Power Authority.
+
+## § 3. Deadline
+
+After completion of the appraisal study under section 1, the Secretary shall complete the Mokelumne River Regional Water Storage and Conjunctive Use Project Study and provide copies of that study to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 2 years after the date of the enactment of this Act.
+
+## § 4. In-kind contributions
+
+The Secretary shall accept, as appropriate, such in-kind contributions of goods or services from the Mokelumne River Water and Power Authority as the Secretary determines will contribute to the conduct and completion of the Mokelumne River Regional Water Storage and Conjunctive Use Project Study. Goods and services accepted under this section shall be counted as part of the non-Federal cost share for that study.
+
+## § 5. Authorization of appropriations
+
+- **(a)** *Appraisal study* There is authorized to be appropriated to the Secretary $300,000 for the preparation of the appraisal study described in section 1.
+- **(b)** *Project study* There is authorized to be appropriated to the Secretary $3,000,000 for the Federal cost share for the Mokelumne River Regional Water Storage and Conjunctive Use Project Study.
