@@ -94,7 +94,7 @@ This is a limit of the shape of this repository, not an upstream gap and
 not a build failure. The votes themselves are published; they are listed
 here with the address the chamber serves them from.
 
-| Measure | Vote | Vote |
+| Measure | Vote | When |
 |---|---|---|
 | `hconres-358` | House 108-2-19 | 2004-02-10, after the last version committed (2004-02-04) |
 | `hconres-359` | House 108-2-20 | 2004-02-10, after the last version committed (2004-02-04) |
