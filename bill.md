@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 4725
+congress: 108th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4725
+
+> To amend the Wild and Scenic Rivers Act to designate a segment of the Glover River in the State of Oklahoma as a component of the National Wild and Scenic Rivers System.
+
+## § 1. Short title
+
+This Act may be cited as the “Glover River Wild and Scenic River Act”.
+
+## § 2. Findings
+
+The Congress finds the following:
+
+- **(1)** The Secretary of Agriculture conducted a study of the eligibility and suitability of the Glover River in the State of Oklahoma for inclusion in the Wild and Scenic Rivers System.
+- **(2)** With extensive public involvement, the Forest Service prepared the “Final Environmental Impact Statement Amendment to the Land and Resource Management Plan Management Direction for Acquired Lands in Southeastern Oklahoma”, which contains an “Individual Assessment of Eligibility and Potential Classification of the Glover River”.
+- **(3)** The study and assessment concluded that the Glover River is eligible for inclusion in the National Wild and Scenic Rivers System based on its free-flowing conditions and remarkable scenic, recreation, geologic, archaeological, historical, and fish and wildlife values.
+
+## § 3. Designation of segment of Glover River, Oklahoma, as component of National Wild and Scenic Rivers System
+
+- **(a)** *Designation* Section 3(a) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(a)) is amended by adding at the end the following new paragraph:
+  > - **(_)** *Glover River, Oklahoma* The 16.5 mile segment from the confluence of the West and East Forks of the Glover River in the Ouachita National Forest in section 7, township 3 south, range 23 east, downstream along the main stem of the Glover River to the southern boundary of the Ouachita National Forest, to be administered by the Secretary of Agriculture as a scenic river.
+
+- **(b)** *Management* The Secretary of Agriculture shall develop and administer the comprehensive management plan required by section 3(d)(1) of the Wild and Scenic Rivers Act (16 U.S.C. 1274(d)(1)) for the segment of the Glover River designated as a scenic river by this section in general accordance with the provisions of the Final Environmental Impact Statement Amendment 34 to the land and resource management plan of the Ouachita National Forest, dated January 8, 2002, that address the segment of the Glover River so designated.
