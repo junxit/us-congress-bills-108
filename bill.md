@@ -1,0 +1,24 @@
+---
+legis-num: H. RES. 549
+congress: 108th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 549
+
+> Encouraging the President of the United States to designate a “Read Across America Day”.
+
+## Preamble
+
+- Whereas reading is a basic requirement for high-quality education and professional success, and a source of pleasure throughout life;
+- Whereas the people of the United States must be able to read if the United States is to remain competitive in the global economy;
+- Whereas Congress, through the No Child Left Behind Act of 2001 (Public Law 107–110) and the new Reading First, Early Reading First, and Improving Literacy Through School Libraries programs, has placed great emphasis on reading intervention and provided additional resources for reading assistance; and
+- Whereas more than 40 national associations concerned about reading and education have joined with the National Education Association to use March 2, the anniversary of the birth of Theodor Geisel, also known as Dr. Seuss, to celebrate reading: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** encourages the President to designate a “Read Across America Day”;
+- **(2)** honors Theodor Geisel, also known as Dr. Seuss, for his success in encouraging children to discover the joy of reading;
+- **(3)** encourages parents to read with their children for at least 30 minutes on Read Across America Day in honor of Dr. Seuss and in celebration of reading; and
+- **(4)** requests that the President issue a proclamation calling on the people of the United States to observe the day with appropriate ceremonies and activities.
