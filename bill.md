@@ -1,0 +1,36 @@
+---
+legis-num: H.R. 5314
+congress: 108th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5314
+
+> To amend title 49, United States Code, to require motor carriers to comply with vehicle emission performance standards established by the Environmental Protection Agency, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Clean Trucks Act of 2004”.
+
+## § 2. Vehicle emission performance standards
+
+Section 13902(a)(1) of title 49, United States Code, is amended—
+
+- **(1)** by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; and
+- **(2)** by inserting after subparagraph (A) the following:
+  > - **(B)** the heavy duty vehicle and engine emission performance standards and related regulations established by the Administrator of the Environmental Protection Agency pursuant to section 202(a)(3) of the Clean Air Act (42 U.S.C. 7521(a)(3)) and a demonstration of compliance with such standards and related regulations;
+
+## § 3. Emissions information collection and reporting
+
+- **(a)** *In general* The Administrator of the Federal Motor Carrier Safety Administration, on an annual basis, shall—
+  - **(1)** collect information on the year, make, model, certification level, travel routes, trip duration, fuel quality and consumption, and related activities of long-haul heavy duty trucks operating in the United States; and
+  - **(2)** submit the information collected under paragraph (1) to the Administrator of the Environmental Protection Agency.
+- **(b)** *Publication of emissions estimates*
+  - **(1)** *In general* The Administrator of the Environmental Protection Agency shall use the information submitted under subsection (a)(2) to develop and publish estimates of the total national emissions of all criteria pollutants and hazardous air pollutants associated with long-haul heavy duty trucks, including, whenever possible—
+    - **(A)** the location of such emissions;
+    - **(B)** an analysis of their impact on nonattainment of air quality standards; and
+    - **(C)** the public health effects of these emissions.
+  - **(2)** *Form and manner* The estimates developed under paragraph (1) shall be published in a form and manner that is most useful for State air quality directors and transportation planners to use in—
+    - **(A)** developing state implementation plans; and
+    - **(B)** making attainment demonstrations, maintenance demonstrations, and transportation conformity determinations under section 176 of the Clean Air Act (42 U.S.C. 7506).
