@@ -1,4 +1,4 @@
-# Measures without text — 108th Congress
+# What this repository does not hold — 108th Congress
 
 8,755 measures are recorded in BILLSTATUS but have no bill text
 linked in any of their `textVersions` entries, so they have no branch in
@@ -6,7 +6,7 @@ this repository.
 
 This is an upstream gap, not a build failure. It is heavily
 concentrated in the older Congresses: govinfo's coverage of bill text
-thins out before the 111th, and House organising resolutions -- electing
+thins out before the 111th, and House organizing resolutions -- electing
 officers, adopting rules -- generally carry no published text in any
 Congress.
 
@@ -81,3 +81,146 @@ reader.
 | `H.Con.Res. 48` | Expressing the sense of Congress that the people and companies of the United States and the United States Armed Forces should not participate in the Paris Air Show, should the Government of France continue its opposition to the potential use of force to insure that Saddam Hussein complies with United Nations resolutions concerning weapons of mass destruction. |
 | `H.Con.Res. 49` | Expressing the sense of the Congress that the sharp escalation of anti-Semitic violence within many participating States of the Organization for Security and Cooperation in Europe (OSCE) is of profound concern and efforts should be undertaken to prevent future occurrences. |
 | `H.Con.Res. 50` | To require the posting of the Ten Commandments in the House and Senate chambers. |
+
+## Roll-call votes taken after the last published text
+
+128 roll calls were taken later than the most recent
+dated text version of their measure, so there is no commit for them to
+sit on. Every record in this repository is the record *as of* the version
+it accompanies -- see the caveat in the README -- and a vote cannot be
+written onto text that predates it.
+
+This is a limit of the shape of this repository, not an upstream gap and
+not a build failure. The votes themselves are published; they are listed
+here with the address the chamber serves them from.
+
+| Measure | Vote | Vote |
+|---|---|---|
+| `hconres-358` | House 108-2-19 | 2004-02-10, after the last version committed (2004-02-04) |
+| `hconres-359` | House 108-2-20 | 2004-02-10, after the last version committed (2004-02-04) |
+| `hconres-363` | House 108-2-441 | 2004-09-13, after the last version committed (2004-02-11) |
+| `hconres-364` | House 108-2-71 | 2004-03-18, after the last version committed (2004-02-24) |
+| `hconres-378` | House 108-2-167 | 2004-05-12, after the last version committed (2004-03-04) |
+| `hconres-380` | House 108-2-140 | 2004-05-04, after the last version committed (2004-03-10) |
+| `hconres-386` | House 108-2-103 | 2004-03-30, after the last version committed (2004-03-16) |
+| `hconres-398` | House 108-2-152 | 2004-05-06, after the last version committed (2004-03-25) |
+| `hconres-403` | House 108-2-179 | 2004-05-17, after the last version committed (2004-04-01) |
+| `hconres-409` | House 108-2-168 | 2004-05-12, after the last version committed (2004-04-28) |
+| `hconres-410` | House 108-2-326 | 2004-07-06, after the last version committed (2004-04-30) |
+| `hconres-413` | House 108-2-221 | 2004-06-02, after the last version committed (2004-05-04) |
+| `hconres-414` | House 108-2-176 | 2004-05-13, after the last version committed (2004-05-04) |
+| `hconres-417` | House 108-2-212 | 2004-06-01, after the last version committed (2004-05-06) |
+| `hconres-418` | House 108-2-415 | 2004-07-22, after the last version committed (2004-05-06) |
+| `hconres-420` | House 108-2-177 | 2004-05-17, after the last version committed (2004-05-11) |
+| `hconres-424` | House 108-2-195 | 2004-05-19, after the last version committed (2004-05-13) |
+| `hconres-449` | House 108-2-281 | 2004-06-22, after the last version committed (2004-06-15) |
+| `hconres-460` | House 108-2-290 | 2004-06-23, after the last version committed (2004-06-22) |
+| `hconres-469` | House 108-2-419 | 2004-07-22, after the last version committed (2004-07-06) |
+| `hconres-501` | House 108-2-485 | 2004-09-30, after the last version committed (2004-09-28) |
+| `hjres-110` | House 108-2-531 | 2004-11-16, after the last version committed (2004-10-08) |
+| `hr-389` | House 108-1-57 | 2003-03-12, after the last version committed (2003-01-27) |
+| `hr-3717` | House 108-2-55 | 2004-03-11, after the last version committed (2004-01-21) |
+| `hr-3723` | House 108-2-95 | 2004-03-29, after the last version committed (2004-01-21) |
+| `hr-3733` | House 108-2-59 | 2004-03-16, after the last version committed (2004-01-27) |
+| `hr-3740` | House 108-2-186 | 2004-05-18, after the last version committed (2004-01-28) |
+| `hr-3752` | House 108-2-39 | 2004-03-04, after the last version committed (2004-02-03) |
+| `hr-3769` | House 108-2-32 | 2004-03-02, after the last version committed (2004-02-04) |
+| `hr-3782` | House 108-2-70 | 2004-03-18, after the last version committed (2004-02-06) |
+| `hr-3783` | House 108-2-24 | 2004-02-11, after the last version committed (2004-02-10) |
+| `hr-3855` | House 108-2-119 | 2004-04-20, after the last version committed (2004-02-26) |
+| `hr-3873` | House 108-2-82 | 2004-03-24, after the last version committed (2004-03-02) |
+| `hr-3942` | House 108-2-131 | 2004-04-27, after the last version committed (2004-03-11) |
+| `hr-3966` | House 108-2-101 | 2004-03-30, after the last version committed (2004-03-12) |
+| `hr-3970` | House 108-2-121 | 2004-04-21, after the last version committed (2004-03-16) |
+| `hr-3980` | House 108-2-338 | 2004-07-08, after the last version committed (2004-03-17) |
+| `hr-4019` | House 108-2-124 | 2004-04-21, after the last version committed (2004-03-24) |
+| `hr-4030` | House 108-2-122 | 2004-04-21, after the last version committed (2004-03-25) |
+| `hr-4037` | House 108-2-118 | 2004-04-20, after the last version committed (2004-03-25) |
+| `hr-4053` | House 108-2-289 | 2004-06-23, after the last version committed (2004-03-29) |
+| `hr-4056` | House 108-2-411 | 2004-07-22, after the last version committed (2004-03-30) |
+| `hr-4109` | House 108-2-222 | 2004-06-02, after the last version committed (2004-04-01) |
+| `hr-4175` | House 108-2-408 | 2004-07-22, after the last version committed (2004-04-20) |
+| `hr-4176` | House 108-2-190 | 2004-05-18, after the last version committed (2004-04-20) |
+| `hr-4231` | House 108-2-483 | 2004-09-30, after the last version committed (2004-04-28) |
+| `hr-4280` | House 108-2-165 | 2004-05-12, after the last version committed (2004-05-05) |
+| `hr-4280` | House 108-2-166 | 2004-05-12, after the last version committed (2004-05-05) |
+| `hr-4281` | House 108-2-172 | 2004-05-13, after the last version committed (2004-05-05) |
+| `hr-4281` | House 108-2-173 | 2004-05-13, after the last version committed (2004-05-05) |
+| `hr-4281` | House 108-2-174 | 2004-05-13, after the last version committed (2004-05-05) |
+| `hr-4299` | House 108-2-153 | 2004-05-11, after the last version committed (2004-05-06) |
+| `hr-4363` | House 108-2-277 | 2004-06-21, after the last version committed (2004-05-13) |
+| `hr-4381` | House 108-2-422 | 2004-09-07, after the last version committed (2004-05-18) |
+| `hr-4418` | House 108-2-373 | 2004-07-14, after the last version committed (2004-05-20) |
+| `hr-4503` | House 108-2-240 | 2004-06-15, after the last version committed (2004-06-03) |
+| `hr-4503` | House 108-2-241 | 2004-06-15, after the last version committed (2004-06-03) |
+| `hr-4513` | House 108-2-242 | 2004-06-15, after the last version committed (2004-06-04) |
+| `hr-4517` | House 108-2-246 | 2004-06-16, after the last version committed (2004-06-04) |
+| `hr-4545` | House 108-2-247 | 2004-06-16, after the last version committed (2004-06-14) |
+| `hr-4548` | House 108-2-291 | 2004-06-23, after the last version committed (2004-06-14) |
+| `hr-4548` | House 108-2-292 | 2004-06-23, after the last version committed (2004-06-14) |
+| `hr-4548` | House 108-2-293 | 2004-06-23, after the last version committed (2004-06-14) |
+| `hr-4548` | House 108-2-294 | 2004-06-23, after the last version committed (2004-06-14) |
+| `hr-4548` | House 108-2-295 | 2004-06-23, after the last version committed (2004-06-14) |
+| `hr-4548` | House 108-2-296 | 2004-06-23, after the last version committed (2004-06-14) |
+| `hr-4548` | House 108-2-297 | 2004-06-23, after the last version committed (2004-06-14) |
+| `hr-4548` | House 108-2-298 | 2004-06-23, after the last version committed (2004-06-14) |
+| `hr-4548` | House 108-2-299 | 2004-06-23, after the last version committed (2004-06-14) |
+| `hr-4548` | House 108-2-300 | 2004-06-23, after the last version committed (2004-06-14) |
+| `hr-4556` | House 108-2-423 | 2004-09-07, after the last version committed (2004-06-14) |
+| `hr-4571` | House 108-2-448 | 2004-09-14, after the last version committed (2004-06-15) |
+| `hr-4571` | House 108-2-449 | 2004-09-14, after the last version committed (2004-06-15) |
+| `hr-4571` | House 108-2-450 | 2004-09-14, after the last version committed (2004-06-15) |
+| `hr-4608` | House 108-2-403 | 2004-07-21, after the last version committed (2004-06-17) |
+| `hr-4661` | House 108-2-503 | 2004-10-07, after the last version committed (2004-06-23) |
+| `hr-5061` | House 108-2-508 | 2004-10-07, after the last version committed (2004-09-09) |
+| `hr-5107` | House 108-2-497 | 2004-10-06, after the last version committed (2004-09-21) |
+| `hr-5186` | House 108-2-505 | 2004-10-07, after the last version committed (2004-09-30) |
+| `hr-5213` | House 108-2-504 | 2004-10-07, after the last version committed (2004-10-05) |
+| `hr-5382` | House 108-2-541 | 2004-11-20, after the last version committed (2004-11-18) |
+| `hres-489` | House 108-2-5 | 2004-01-21, after the last version committed (2004-01-20) |
+| `hres-490` | House 108-2-4 | 2004-01-21, after the last version committed (2004-01-20) |
+| `hres-491` | House 108-2-3 | 2004-01-21, after the last version committed (2004-01-20) |
+| `hres-492` | House 108-2-2 | 2004-01-21, after the last version committed (2004-01-20) |
+| `hres-507` | House 108-2-12 | 2004-02-03, after the last version committed (2004-01-28) |
+| `hres-519` | House 108-2-42 | 2004-03-09, after the last version committed (2004-02-04) |
+| `hres-522` | House 108-2-77 | 2004-03-24, after the last version committed (2004-02-10) |
+| `hres-526` | House 108-2-33 | 2004-03-02, after the last version committed (2004-02-11) |
+| `hres-540` | House 108-2-57 | 2004-03-11, after the last version committed (2004-02-26) |
+| `hres-551` | House 108-2-58 | 2004-03-16, after the last version committed (2004-03-09) |
+| `hres-557` | House 108-2-64 | 2004-03-17, after the last version committed (2004-03-11) |
+| `hres-558` | House 108-2-99 | 2004-03-30, after the last version committed (2004-03-11) |
+| `hres-567` | House 108-2-489 | 2004-10-04, after the last version committed (2004-03-17) |
+| `hres-576` | House 108-2-374 | 2004-07-14, after the last version committed (2004-03-24) |
+| `hres-577` | House 108-2-155 | 2004-05-11, after the last version committed (2004-03-25) |
+| `hres-578` | House 108-2-133 | 2004-04-27, after the last version committed (2004-03-25) |
+| `hres-581` | House 108-2-104 | 2004-03-31, after the last version committed (2004-03-29) |
+| `hres-591` | House 108-2-276 | 2004-06-21, after the last version committed (2004-03-31) |
+| `hres-599` | House 108-2-141 | 2004-05-04, after the last version committed (2004-04-20) |
+| `hres-600` | House 108-2-139 | 2004-05-04, after the last version committed (2004-04-21) |
+| `hres-605` | House 108-2-146 | 2004-05-05, after the last version committed (2004-04-22) |
+| `hres-608` | House 108-2-160 | 2004-05-12, after the last version committed (2004-04-28) |
+| `hres-612` | House 108-2-211 | 2004-06-01, after the last version committed (2004-04-29) |
+| `hres-615` | House 108-2-377 | 2004-07-15, after the last version committed (2004-04-30) |
+| `hres-622` | House 108-2-154 | 2004-05-11, after the last version committed (2004-05-04) |
+| `hres-627` | House 108-2-150 | 2004-05-06, after the last version committed (2004-05-05) |
+| `hres-652` | House 108-2-412 | 2004-07-22, after the last version committed (2004-05-20) |
+| `hres-653` | House 108-2-235 | 2004-06-14, after the last version committed (2004-05-20) |
+| `hres-655` | House 108-2-228 | 2004-06-03, after the last version committed (2004-06-01) |
+| `hres-658` | House 108-2-285 | 2004-06-22, after the last version committed (2004-06-01) |
+| `hres-660` | House 108-2-278 | 2004-06-21, after the last version committed (2004-06-02) |
+| `hres-664` | House 108-2-231 | 2004-06-09, after the last version committed (2004-06-08) |
+| `hres-667` | House 108-2-442 | 2004-09-13, after the last version committed (2004-06-09) |
+| `hres-669` | House 108-2-233 | 2004-06-14, after the last version committed (2004-06-09) |
+| `hres-676` | House 108-2-304 | 2004-06-24, after the last version committed (2004-06-15) |
+| `hres-685` | House 108-2-301 | 2004-06-24, after the last version committed (2004-06-22) |
+| `hres-691` | House 108-2-319 | 2004-06-25, after the last version committed (2004-06-23) |
+| `hres-705` | House 108-2-372 | 2004-07-14, after the last version committed (2004-07-07) |
+| `hres-713` | House 108-2-378 | 2004-07-15, after the last version committed (2004-07-13) |
+| `hres-723` | House 108-2-402 | 2004-07-21, after the last version committed (2004-07-19) |
+| `hres-757` | House 108-2-431 | 2004-09-09, after the last version committed (2004-09-08) |
+| `hres-760` | House 108-2-443 | 2004-09-13, after the last version committed (2004-09-08) |
+| `hres-792` | House 108-2-486 | 2004-09-30, after the last version committed (2004-09-22) |
+| `hres-853` | House 108-2-539 | 2004-11-20, after the last version committed (2004-11-16) |
+| `s-2986` | House 108-2-535 | 2004-11-18, after the last version committed (2004-11-16) |
+| `s-2986` | House 108-2-536 | 2004-11-18, after the last version committed (2004-11-16) |
+| `s-2986` | Senate 108-2-213 | 2004-11-17, after the last version committed (2004-11-16) |
