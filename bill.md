@@ -1,0 +1,37 @@
+---
+legis-num: H.R. 4297
+congress: 108th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4297
+
+> To provide loan guarantees for renewable energy projects using biomass material.
+
+## § 1. Renewable energy system loan guarantees
+
+Section 9006 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 8106) is amended—
+
+- **(1)** in subsection (c)(1), by striking “The” each place it appears and inserting “Except as provided in subsection (e), the”;
+- **(2)** by redesignating subsections (e) and (f) as subsections (f) and (g), respectively; and
+- **(3)** by inserting after subsection (d) the following:
+  > - **(e)** *Loan guarantees for major projects*
+  >   - **(1)** *Definition of subsidy costs* In this subsection, the term subsidy costs has the meaning given the term cost in section 502 of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a).
+  >   - **(2)** *Projects* Subsection (c)(1) shall not apply to a loan guarantee made under this section to carry out a project if—
+  >     - **(A)** the loan will be used—
+  >       - **(i)** to purchase a renewable energy system associated with a commercial production agricultural enterprise; and
+  >       - **(ii)** to promote a solution to an environmental problem of the State in which the project will be carried out;
+  >     - **(B)** the principal amount of the loan is not less than $50,000,000 and not more than $100,000,000;
+  >     - **(C)** the lender of the loan exercises due diligence with respect to the borrower of the loan;
+  >     - **(D)** the borrower of the loan pays in full, before the guarantee is issued, a guarantee fee in the amount of the estimated subsidy cost of the guarantee, as determined by the Director of the Office of Management and Budget;
+  >     - **(E)** the project is certified by the appropriate State agency, as designated by the Governor of the State in which the project will be carried out;
+  >     - **(F)** the project requires no Federal or State financial assistance, other than the loan guarantee provided under this subsection; and
+  >     - **(G)** the project complies with all necessary permits, licenses, and approvals required under the laws of the State.
+  >   - **(3)** *Priority* In making loan guarantees under this section for projects described in paragraph (2), the Secretary shall give priority to renewable energy projects that promote the production of an agricultural commodity that is imported into the United States.
+  >   - **(4)** *Cost sharing*
+  >     - **(A)** *In general* The amount of a loan guarantee under this section for a project described in paragraph (2) shall not exceed 80 percent of the total project cost.
+  >     - **(B)** *Subordination* Any financing for the non-Federal share of the total project cost shall be subordinated to the federally guaranteed portion of the total project cost.
+  >   - **(5)** *Maximum amount*
+  >     - **(A)** *Individual loans* The amount of principal for a loan under this section for a project described in paragraph (2) shall not exceed $100,000,000.
+  >     - **(B)** *All loans* The total outstanding amount of principal for loans under this section for all projects described in paragraph (2) shall not exceed $1,000,000,000 for fiscal year 2004.
