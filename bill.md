@@ -23,8 +23,8 @@ This Act may be cited as the “Chickasaw National Recreation Area Land Exchange
   - **(5)** The land selected to be conveyed to the Chickasaw Nation holds significant historical and cultural connections to the people of the Chickasaw Nation.
   - **(6)** The City of Sulphur, Oklahoma, is a key partner in this land exchange through its donation of land to the Chickasaw Nation for the purpose of exchange with the United States.
   - **(7)** The City of Sulphur, Oklahoma, has conveyed fee simple title to the non-Federal land described as Tract 102–26 to the Chickasaw Nation by Warranty Deed.
-  - **(8)** The National Park Service, the Chickasaw Nation, and the City of Sulphur, Oklahoma, have signed a preliminary agreement to effect a land exchange in order to allow the construction of a cultural center and to further protect the watershed and riparian resources of the park.
-- **(b)** *Purpose* The purpose of this Act is to authorize, direct, facilitate, and expedite the land conveyance and trust acquisition in accordance with the terms and conditions of this Act.
+  - **(8)** The National Park Service, the Chickasaw Nation, and the City of Sulphur, Oklahoma, have signed a preliminary agreement to effect a land exchange for the purpose of the construction of a cultural center.
+- **(b)** *Purpose* The purpose of this Act is to authorize, direct, facilitate, and expedite the land conveyance in accordance with the terms and conditions of this Act.
 
 ## § 3. Definitions
 
@@ -37,9 +37,12 @@ For the purposes of this Act, the following definitions apply:
 
 ## § 4. Chickasaw national recreation area land conveyance
 
-- **(a)** *Land conveyance* Not later then 6 months after the Chickasaw Nation conveys all right, title, and interest in and to the non-Federal land to the United States, the Secretary shall take the Federal land into trust for the benefit of the Chickasaw Nation.
-- **(b)** *Equal value of lands* The value of the Federal land and the non-Federal land shall be of approximately equal value, as determined by the Secretary through an appraisal performed by a qualified appraiser and in conformance with the Uniform Appraisal Standards for Federal Land Acquisitions.
-- **(c)** *Conditions* Notwithstanding subsection (a), the land conveyance and trust acquisition authorized under subsection (a) shall not take place until the completion of all items included in the Preliminary Exchange Agreement among the City of Sulphur, the Chickasaw Nation, and the National Park Service, executed on July 16, 2002.
-- **(d)** *Administration of acquired land* Upon the conveyance of the non-Federal land to the Secretary pursuant to this Act, the non-Federal land shall become part of the Chickasaw National Recreation Area and the Secretary shall—
-  - **(1)** manage such land in accordance with the Act of August 25, 1916 (ch. 408, 39 Stat. 535), and the other laws, rules, and regulations applicable to the National Park System; and
-  - **(2)** revise the boundary of Chickasaw National Recreation Area to reflect the acquisition.
+- **(a)** *Land Conveyance* Not later than 6 months after the Chickasaw Nation conveys all right, title, and interest in and to the non-Federal land to the United States, the Secretary shall convey all right, title, and interest in and to the Federal land to the Chickasaw Nation.
+- **(b)** *Valuation of Land to Be Conveyed* The fair market values of the Federal land and non-Federal land shall be determined by an appraisal acceptable to the Secretary and the Chickasaw Nation. The appraisal shall conform with the Federal appraisal standards, as defined in the Uniform Appraisal Standards for Federal Land Acquisitions developed by the Interagency Land Acquisition Conference, 1992, and any amendments to these standards.
+- **(c)** *Equalization of Values* If the fair market values of the Federal land and non-Federal land are not equal, the values may be equalized by the payment of a cash equalization payment by the Secretary or the Chickasaw Nation, as appropriate.
+- **(d)** *Conditions*
+  - **(1)** *In general* Notwithstanding subsection (a), the conveyance of the non-Federal land authorized under subsection (a) shall not take place until the completion of all items included in the Preliminary Exchange Agreement among the City of Sulphur, the Chickasaw Nation, and the National Park Service, executed on July 16, 2002, except as provided in paragraph (2).
+  - **(2)** *Exception* The item included in the Preliminary Exchange Agreement among the City of Sulphur, the Chickasaw Nation, and the National Park Service, executed on July 16, 2002, providing for the Federal land to be taken into trust for the benefit of the Chickasaw Nation shall not apply.
+- **(e)** *Administration of Acquired Land* Upon completion of the land exchange authorized under subsection (a), the Secretary—
+  - **(1)** shall revise the boundary of Chickasaw National Recreation Area to reflect that exchange; and
+  - **(2)** shall administer the land acquired by the United States in accordance with applicable laws and regulations.
