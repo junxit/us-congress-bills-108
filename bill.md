@@ -8,9 +8,3 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 # H.R. 4593
 
 > To establish wilderness areas, promote conservation, improve public land, and provide for the high quality development in Lincoln County, Nevada, and for other purposes.
-
-## § 1. Short title
-
-This Act may be cited as the “Lincoln County Conservation, Recreation, and Development Act of 2004”.
-
-## § 2. Table of contents
