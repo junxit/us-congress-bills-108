@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4588
 congress: 108
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4588
@@ -32,3 +32,11 @@ Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2004
 - 2004-06-16 — Introduced in House
 - 2004-06-16 — Introduced in House
 - 2004-06-16 — Referred to the House Committee on Resources.
+- 2004-06-21 — Referred to the Subcommittee on Water and Power.
+- 2004-07-08 — Subcommittee Hearings Held.
+- 2004-09-15 — Committee Consideration and Mark-up Session Held.
+- 2004-09-15 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2004-09-15 — Subcommittee on Water and Power Discharged.
+- 2004-10-07 — Placed on the Union Calendar, Calendar No. 470.
+- 2004-10-07 — Reported (Amended) by the Committee on Resources. H. Rept. 108-758.
+- 2004-10-07 — Reported (Amended) by the Committee on Resources. H. Rept. 108-758.

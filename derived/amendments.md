@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4588
 congress: 108
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,5 +32,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Section 4(a) of the Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2000 (Public Law 106–576; 114 Stat. 3067) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | redesignate | Section 4 of such Act (Public Law 106–576; 114 Stat. 3067) is further amended by redesignating subsection (g) as subsection (i), and by inserting after subsection (f) the following: | the bill names no machine-readable US Code section |
-| — | insert | Section 4(c) of the Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2000 (Public Law 106–576; 114 Stat. 3067) is amended by inserting before the period the following: “for projects referred to in paragraphs (1… | the bill names no machine-readable US Code section |
+| — | redesignate | Section 4 of such Act (Public Law 106–576; 114 Stat. 3067) is further amended by redesignating subsection (c) as subsection (e), and by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | Section 4(e) of the Lower Rio Grande Valley Water Resources Conservation and Improvement Act of 2000 (Public Law 106–576; 114 Stat. 3067), as redesignated by section 2(b) of this Act, is further amended by inserting before the period the… | the bill names no machine-readable US Code section |
