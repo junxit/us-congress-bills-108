@@ -16,8 +16,8 @@ This Act may be cited as the “Terrorism Insurance Backstop Extension Act of 20
 ## § 2. Extension of terrorism insurance program
 
 - **(a)** *Program years 4 and 5* Paragraph (11) of section 102 of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by adding at the end the following new subparagraphs:
-  > - **(E)** *Program year 4* The term Program Year 4 means the period beginning on January 1, 2006 and ending on December 31, 2006.
-  > - **(F)** *Program year 5* The term Program Year 5 means the period beginning on January 1, 2007 and ending on December 31, 2007.
+  > - **(E)** *Program year 4* The term “Program Year 4” means the period beginning on January 1, 2006 and ending on December 31, 2006.
+  > - **(F)** *Program year 5* The term “Program Year 5” means the period beginning on January 1, 2007 and ending on December 31, 2007.
 
 - **(b)** *Insurer deductible* Paragraph (7) of section 102 of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended—
   - **(1)** by redesignating subparagraph (E) as subparagraph (G);
@@ -44,23 +44,53 @@ This Act may be cited as the “Terrorism Insurance Backstop Extension Act of 20
     - **(C)** by adding at the end the following new subparagraphs:
       > - **(D)** for Program Year 4, the lesser of—
       >   - **(i)** $17,500,000,000; and
-      >   - **(ii)** the aggregate amount, for all insurers, of insured losses during such Program Year; and
+      >   - **(ii)** the aggregate amount, for all insurers, of insured losses during such Program Year;
       > - **(E)** for Program Year 5, the lesser of—
       >   - **(i)** $20,000,000,000; and
-      >   - **(ii)** the aggregate amount, for all insurers, of insured losses during such Program Year.
+      >   - **(ii)** the aggregate amount, for all insurers, of insured losses during such Program Year; and
 
   - **(4)** in paragraph (7)—
     - **(A)** in subparagraph (A), by striking “and (C)” and inserting “(C), (D), and (E)”; and
     - **(B)** in subparagraphs (B) and (C), by striking “or (C)” each place such term appears and inserting “(C), (D), or (E)”.
-- **(e)** *Group life insurance determination* Subsection (h) of section 103 of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended—
-  - **(1)** in paragraph (2)(B), by striking “the study under paragraph (1)” and inserting “paragraphs (1) and (2)”;
-  - **(2)** by redesignating paragraph (2) as paragraph (3); and
-  - **(3)** by inserting after paragraph (1) the following new paragraph:
-    > - **(2)** *Determination* By June 1, 2005, the Secretary shall—
-    >   - **(A)** submit a report to the Congress on conditions and developments in the market for group life insurance since the determination that was announced by the Secretary on August 15, 2003, and made pursuant to this subsection (as in effect on such date); and
-    >   - **(B)** make a final determination as to the availability of group life insurance to both insurers and consumers and whether the provisions of this title shall be applied, pursuant to paragraph (3), to providers of group life insurance.
+- **(e)** *Coverage of group life insurance*
+  - **(1)** *In general* Paragraph (5) of section 102 of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended in the matter that precedes subparagraph (A) by inserting “or group life” after “property and casualty”.
+  - **(2)** *Technical and conforming amendments* The Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended—
+    - **(A)** in section 102—
+      - **(i)** in paragraph (1)—
+        - **(I)** in subparagraph (B)(i), by inserting “or group life insurance” after “workers’ compensation”; and
+        - **(II)** in subparagraph (B)(ii), by inserting “and group life insurance” after “property and casualty insurance”;
+      - **(ii)** in paragraph (4)—
+        - **(I)** by inserting “or for group life insurance” after “property and casualty insurance”; and
+        - **(II)** by striking “paragraph (5)” and inserting “paragraph (6)”;
+      - **(iii)** in paragraph (5), by inserting “and group life insurance” after “workers’ compensation”; and
+      - **(iv)** in paragraph (6)—
+        - **(I)** in subparagraph (A)(i), by inserting “property and casualty or group life” after “excess”;
+        - **(II)** in subparagraph (B), by inserting “or group life insurance coverage” after “property and casualty insurance coverage”;
+      - **(v)** by redesignating paragraphs (5) through (16) as paragraphs (6) through (17), respectively; and
+      - **(vi)** by inserting after paragraph (4), the following new paragraph:
+        > - **(5)** *Group life insurance* The term ‘group life insurance’ means an insurance contract that provides term life insurance coverage, accidental death coverage, or a combination thereof, for a number of persons under a single contract, on the basis of a group selection of risks.
 
+    - **(B)** in section 103—
+      - **(i)** in subsection (b)(1), by inserting “(including a named beneficiary in the case of a group life insurance policy)” before the second comma;
+      - **(ii)** in subsection (c)—
+        - **(I)** in paragraph (1) (as so redesignated by subsection (c)(3) of this section), by inserting “and group life” after “property and casualty”; and
+        - **(II)** in paragraph (2) (as so redesignated by subsection (c)(3) of this section), by inserting “and group life” after “property and casualty”;
+      - **(iii)** in subsection (e)—
+        - **(I)** in paragraph (6), by striking “For” and inserting “Except as provided in subparagraph (F) of this paragraph, for”;
+        - **(II)** in paragraph (6), by inserting after subparagraph (E) (as added by subsection (d)(3)(C) of this section) the following new subparagraph:
+          > - **(F)** for each of the periods referred to in subparagraphs (A) through (E), the amounts provided under such subparagraphs, as such amounts shall be increased by the Secretary before the expiration of the 90-day period beginning on the date of the enactment of the Terrorism Insurance Backstop Extension Act of 2004, based on the increase in the size of the Program caused by the inclusion of group life insurance pursuant to such Act, in proportion to the increased premiums involved.
+
+        - **(III)** in paragraph (7)(C), by inserting “or group life insurance” after “workers compensation”;
+        - **(IV)** in paragraph (8)(A)(i), by inserting “and group life” after “property and casualty”; and
+        - **(V)** in paragraph (8), by inserting “or group life” after “property and casualty” each place such term appears in subparagraphs (A)(iii) and (C); and
+      - **(iv)** by striking subsection (h);
+    - **(C)** in section 105(c), by inserting “or group life” after “property and casualty”; and
+    - **(D)** in section 108(d)(1), by inserting “and the group life insurance industry” after “property and casualty insurance industry”.
+  - **(3)** *Required rulemaking* Not later than 90 days after the date of the enactment of this Act, the Secretary of the Treasury shall issue final regulations to carry out this subsection.
 - **(f)** *Study on long-term solutions* Section 103 of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by striking subsection (i) and inserting the following new subsection:
-  > - **(i)** *Study on long-term solutions* By June 1, 2005, the Secretary shall conduct a study and submit a report to the Congress on alternatives for expanding the availability and affordability of terrorism insurance after the termination of the Program that do not involve a Federal financial backstop.
+  > - **(h)** *Study on long-term solutions* By June 1, 2005, the Secretary shall conduct a study and submit a report to the Congress on alternatives for expanding the availability and affordability of terrorism insurance after the termination of the Program that do not involve a Federal financial backstop.
 
-- **(g)** *Termination of program* Subsection (a) of section 108 of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by striking “December 31, 2005” and inserting “December 31, 2007”.
+- **(g)** *Termination of program*
+  - **(1)** *Termination* Subsection (a) of section 108 of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by striking “December 31, 2005” and inserting “December 31, 2007”.
+  - **(2)** *Final GAO study and report* Subsection (d) of section 108 of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by adding at the end the following new paragraph:
+    > - **(3)** *Final gao study and report* The Comptroller General of the United States shall conduct an assessment of the matters referred to in paragraph (1) and shall submit a report to the Congress, not later than June 30, 2007, on the results of such study.
