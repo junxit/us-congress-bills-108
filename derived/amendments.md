@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5104
 congress: 108
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 

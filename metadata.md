@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5104
 congress: 108
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5104
@@ -25,3 +25,8 @@ Prescott Marine Mammal Stranding Program Amendments of 2004
 - 2004-09-17 — Introduced in House
 - 2004-09-17 — Introduced in House
 - 2004-09-17 — Referred to the House Committee on Resources.
+- 2004-09-22 — Committee Consideration and Mark-up Session Held.
+- 2004-09-22 — Ordered to be Reported by Voice Vote.
+- 2004-11-19 — Placed on the Union Calendar, Calendar No. 481.
+- 2004-11-19 — Reported by the Committee on Resources. H. Rept. 108-787.
+- 2004-11-19 — Reported by the Committee on Resources. H. Rept. 108-787.
