@@ -1,0 +1,33 @@
+---
+legis-num: H.R. 4469
+congress: 108th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4469
+
+> To authorize appropriations to the Secretary of the Interior for the restoration of the Angel Island Immigration Station in the State of California.
+
+## § 1. Short title
+
+This Act may be cited as the “Angel Island Immigration Station Restoration and Preservation Act”.
+
+## § 2. Findings
+
+The Congress makes the following findings:
+
+- **(1)** The Angel Island Immigration Station, also known as the Ellis Island of the West, is a National Historic Landmark.
+- **(2)** Between 1910 and 1940, the Angel Island Immigration Station processed more than 1,000,000 immigrants and emigrants from around the world.
+- **(3)** The Angel Island Immigration Station contributes greatly to our understanding of our Nation’s rich and complex immigration history.
+- **(4)** The Angel Island Immigration Station was built to enforce the Chinese Exclusion Act of 1882 and subsequent immigration laws, which unfairly and severely restricted Asian immigration.
+- **(5)** During their detention at the Angel Island Immigration Station, Chinese detainees carved poems into the walls of the detention barracks. More than 140 poems remain today, representing the unique voices of immigrants awaiting entry to this country.
+- **(6)** More than 50,000 people, including 30,000 schoolchildren, visit the Angel Island Immigration Station annually to learn more about the experience of immigrants who have traveled to our shores.
+- **(7)** The restoration of the Angel Island Immigration Station and the preservation of the writings and drawings at the Angel Island Immigration Station will ensure that future generations also have the benefit of experiencing and appreciating this great symbol of the perseverance of the immigrant spirit, and of the diversity of this great Nation.
+
+## § 3. Restoration
+
+- **(a)** *Authorization of Appropriations* There are authorized to be appropriated to the Secretary of the Interior $15,000,000 for restoring the Angel Island Immigration Station in the San Francisco Bay, in coordination with the Angel Island Immigration Station Foundation and the California Department of Parks and Recreation.
+- **(b)** *Priority*
+  - **(1)** Except as provided in paragraph (2), the funds appropriated pursuant to this Act shall be used for the restoration of the Immigration Station Hospital on Angel Island.
+  - **(2)** Any remaining funds in excess of the amount required to carry out paragraph (1) shall be used solely for the restoration of the Angel Island Immigration Station.
