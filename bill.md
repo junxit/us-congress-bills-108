@@ -1,0 +1,58 @@
+---
+legis-num: H.R. 4123
+congress: 108th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4123
+
+> To amend chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), to bring military sexual assault crimes into parallel with Federal sexual assault crimes.
+
+## § 1. Short title
+
+This Act may be cited as the “&short-title1;”.
+
+## § 2. Military sexual abuse
+
+- **(a)** *Sexual abuse* Section 920 of title 10, United States Code (article 120 of the Uniform Code of Military Justice), is amended to read as follows:
+  > ## § 920. Art. 120. Sexual abuse.
+  >
+  > - **(a)** Any person subject to this chapter who knowingly causes another person to engage in a sexual act—
+  >   - **(1)** by using force against that other person; or
+  >   - **(2)** by threatening or placing that other person in fear that any person will be subjected to death, serious bodily injury, or kidnapping;
+  > - **(b)** Any person subject to this chapter who knowingly—
+  >   - **(1)** renders another person unconscious and thereby engages in a sexual act with that other person; or
+  >   - **(2)** administers to another person by force or threat of force, or without the knowledge or permission of that other person, a drug, intoxicant, or other similar substance and thereby—
+  >     - **(A)** substantially impairs the ability of that other person to appraise or control conduct; and
+  >     - **(B)** engages in a sexual act with that other person;
+  > - **(c)** Any person subject to this chapter who knowingly engages in a sexual act with another person who has not attained the age of twelve years is guilty of aggravated sexual abuse of a child and shall be punished as a court-martial may direct. In a prosecution under this subsection, it need not be proven that the accused knew that the other person engaging in the sexual act had not attained the age of twelve years.
+  > - **(d)** Any person subject to this chapter who knowingly—
+  >   - **(1)** causes another person to engage in a sexual act by threatening or placing that other person in fear (other than by threatening or placing that other person in fear that any person will be subjected to death, serious bodily injury, or kidnapping); or
+  >   - **(2)** engages in a sexual act with another person if that other person is—
+  >     - **(A)** incapable of appraising the nature of the conduct; or
+  >     - **(B)** physically incapable of declining participation in, or communicating unwillingness to engage in, that sexual act;
+  > - **(e)**
+  >   - **(1)** Any person subject to this chapter who knowingly engages in a sexual act with another person who—
+  >     - **(A)** has attained the age of twelve years but has not attained the age of sixteen years;
+  >     - **(B)** is at least four years younger than the person so engaging; and
+  >     - **(C)** is not that person’s spouse;
+  >   - **(2)** In a prosecution under this subsection, it need not be proven that the accused knew the age of the other person engaging in the sexual act or that the requisite age difference existed between the persons so engaging.
+  >   - **(3)** In a prosecution under this subsection, it is an affirmative defense that the accused reasonably believed that the other person had attained the age of sixteen years. The accused has the burden of proving a defense under this paragraph by a preponderance of the evidence.
+  > - **(f)** Any person subject to this chapter who knowingly engages in a sexual act with another person who is—
+  >   - **(1)** in official detention or confinement; and
+  >   - **(2)** under the custodial, supervisory, or disciplinary authority of the person so engaging; and
+  >   - **(3)** is not that person's spouse;
+  > - **(g)** In this section, the term sexual act means—
+  >   - **(1)** contact between the penis and the vulva or the penis and the anus, and for purposes of this subparagraph contact involving the penis occurs upon penetration, however slight;
+  >   - **(2)** contact between the mouth and the penis, the mouth and the vulva, or the mouth and the anus;
+  >   - **(3)** the penetration, however slight, of the anal or genital opening of another by a hand or finger or by any object, with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person; or
+  >   - **(4)** the intentional touching, not through the clothing, of the genitalia of another person who has not attained the age of sixteen years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person.
+
+- **(b)** *Conforming amendments*
+  - **(1)** *Murder* Section 918(4) of title 10, United States Code (article 118 of the Uniform Code of Military Justice), is amended by striking “sodomy, rape,” and inserting “aggravated sexual abuse, aggravated sexual abuse of a child,”.
+  - **(2)** *Sodomy* Section 925 of title 10, United States Code (article 125 of the Uniform Code of Military Justice), is repealed.
+- **(c)** *Clerical amendments* The table of sections at the beginning of chapter 47 of title 10, United States Code, is amended—
+  - **(1)** by striking the item relating to section 925; and
+  - **(2)** by striking the item relating to section 920 and inserting the following new item:
+- **(d)** *Effective Date* The amendments made by this section shall apply with respect to offenses committed after the date of the enactment of this Act.
