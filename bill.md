@@ -1,0 +1,30 @@
+---
+legis-num: H. RES. 798
+congress: 108th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 798
+
+> Honoring former President James Earl (Jimmy) Carter on the occasion of his 80th birthday.
+
+## Preamble
+
+- Whereas Jimmy Carter was born in Plains, Georgia, on October 1, 1924;
+- Whereas Jimmy Carter attended Georgia Southwestern College and the Georgia Institute of Technology, and received a B.S. degree from the United States Naval Academy in 1946;
+- Whereas Jimmy Carter served honorably as a submariner in the United States Navy in both the Atlantic and Pacific fleets, working under Admiral Hyman Rickover in the development of the nuclear submarine program;
+- Whereas Jimmy Carter continued his commitment to public service, serving as Georgia State Senator and Governor of Georgia;
+- Whereas Jimmy Carter was elected the 39th President of the United States on November 2, 1976;
+- Whereas Jimmy Carter created both the Departments of Education and Energy and implemented major education policies and a comprehensive national energy program;
+- Whereas Jimmy Carter oversaw deregulation of the airline, energy and banking industries;
+- Whereas Jimmy Carter established human rights as a tenet of American foreign policy and pressed nations to uphold basic human rights;
+- Whereas Jimmy Carter inaugurated diplomatic relations with the People’s Republic of China;
+- Whereas Jimmy Carter successfully negotiated both the Panama Canal and SALT II Treaties;
+- Whereas Jimmy Carter was instrumental in the negotiation and signing of the Camp David Accord between Israel and Egypt, signaling a new era of peace between those two countries;
+- Whereas Jimmy Carter has continued his service to his country since leaving the Presidency by championing safe and affordable housing, human rights, and disease prevention;
+- Whereas Jimmy Carter remains actively committed to promoting peace and democracy abroad, supervising elections in fledgling democracies, and helping to defuse international crises in North Korea, Somalia, and Haiti;
+- Whereas Jimmy Carter was awarded the 2002 Nobel Peace Prize for “his decades of untiring effort to find peaceful solutions to international conflicts, to advance democracy and human rights, and to promote economic and social development”; and
+- Whereas Jimmy Carter serves as a living international symbol of American integrity and compassion: Now, therefore, be it
+
+That the House of Representatives honors former President Jimmy Carter on the occasion of his 80th birthday and extends best wishes to him and his family.
